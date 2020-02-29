@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//project-nova.github.io/react-redux-day-1/static/css/main.d1b05096.chunk.css",
+    "main.js": "//project-nova.github.io/react-redux-day-1/static/js/main.18cd6218.chunk.js",
+    "main.js.map": "//project-nova.github.io/react-redux-day-1/static/js/main.18cd6218.chunk.js.map",
+    "runtime-main.js": "//project-nova.github.io/react-redux-day-1/static/js/runtime-main.c62f1535.js",
+    "runtime-main.js.map": "//project-nova.github.io/react-redux-day-1/static/js/runtime-main.c62f1535.js.map",
+    "static/js/2.7e624d25.chunk.js": "//project-nova.github.io/react-redux-day-1/static/js/2.7e624d25.chunk.js",
+    "static/js/2.7e624d25.chunk.js.map": "//project-nova.github.io/react-redux-day-1/static/js/2.7e624d25.chunk.js.map",
+    "index.html": "//project-nova.github.io/react-redux-day-1/index.html",
+    "precache-manifest.09a7dc1867e4ae90635ea4367cb3f2b5.js": "//project-nova.github.io/react-redux-day-1/precache-manifest.09a7dc1867e4ae90635ea4367cb3f2b5.js",
+    "service-worker.js": "//project-nova.github.io/react-redux-day-1/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "//project-nova.github.io/react-redux-day-1/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7e624d25.chunk.js.LICENSE.txt": "//project-nova.github.io/react-redux-day-1/static/js/2.7e624d25.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//project-nova.github.io/react-redux-day-1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c62f1535.js",
+    "static/js/2.7e624d25.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.18cd6218.chunk.js"
+  ]
+}
