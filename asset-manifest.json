@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "//project-nova.github.io/react-redux-day-1/static/css/main.d1b05096.chunk.css",
-    "main.js": "//project-nova.github.io/react-redux-day-1/static/js/main.4ac32502.chunk.js",
-    "main.js.map": "//project-nova.github.io/react-redux-day-1/static/js/main.4ac32502.chunk.js.map",
-    "runtime-main.js": "//project-nova.github.io/react-redux-day-1/static/js/runtime-main.c62f1535.js",
-    "runtime-main.js.map": "//project-nova.github.io/react-redux-day-1/static/js/runtime-main.c62f1535.js.map",
-    "static/js/2.cc1d243d.chunk.js": "//project-nova.github.io/react-redux-day-1/static/js/2.cc1d243d.chunk.js",
-    "static/js/2.cc1d243d.chunk.js.map": "//project-nova.github.io/react-redux-day-1/static/js/2.cc1d243d.chunk.js.map",
-    "index.html": "//project-nova.github.io/react-redux-day-1/index.html",
-    "precache-manifest.326a22eb2112f0efe621b8cbb0f7bc7b.js": "//project-nova.github.io/react-redux-day-1/precache-manifest.326a22eb2112f0efe621b8cbb0f7bc7b.js",
-    "service-worker.js": "//project-nova.github.io/react-redux-day-1/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "//project-nova.github.io/react-redux-day-1/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.cc1d243d.chunk.js.LICENSE.txt": "//project-nova.github.io/react-redux-day-1/static/js/2.cc1d243d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "//project-nova.github.io/react-redux-day-1/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-redux-day-1/static/css/main.586a53c3.chunk.css",
+    "main.js": "/react-redux-day-1/static/js/main.db85e817.chunk.js",
+    "main.js.map": "/react-redux-day-1/static/js/main.db85e817.chunk.js.map",
+    "runtime-main.js": "/react-redux-day-1/static/js/runtime-main.49bb7ef9.js",
+    "runtime-main.js.map": "/react-redux-day-1/static/js/runtime-main.49bb7ef9.js.map",
+    "static/js/2.79df78f5.chunk.js": "/react-redux-day-1/static/js/2.79df78f5.chunk.js",
+    "static/js/2.79df78f5.chunk.js.map": "/react-redux-day-1/static/js/2.79df78f5.chunk.js.map",
+    "index.html": "/react-redux-day-1/index.html",
+    "precache-manifest.f263c070c933c99d464cac7dee1dc575.js": "/react-redux-day-1/precache-manifest.f263c070c933c99d464cac7dee1dc575.js",
+    "service-worker.js": "/react-redux-day-1/service-worker.js",
+    "static/css/main.586a53c3.chunk.css.map": "/react-redux-day-1/static/css/main.586a53c3.chunk.css.map",
+    "static/js/2.79df78f5.chunk.js.LICENSE.txt": "/react-redux-day-1/static/js/2.79df78f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c62f1535.js",
-    "static/js/2.cc1d243d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.4ac32502.chunk.js"
+    "static/js/runtime-main.49bb7ef9.js",
+    "static/js/2.79df78f5.chunk.js",
+    "static/css/main.586a53c3.chunk.css",
+    "static/js/main.db85e817.chunk.js"
   ]
 }
